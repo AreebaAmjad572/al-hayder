@@ -1,0 +1,6 @@
+{
+  "name": "Al Hayder Transport Agency",
+  "description": "Al Hayder Transport Agency provides reliable truck and goods transportation services based in Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
